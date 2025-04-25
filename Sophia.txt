@@ -1,0 +1,11 @@
+Name:
+Sophia
+
+Undone:
+Lernen
+Aufräumen
+Duschen
+
+Done:
+Hausaufgaben machen
+Zur Schule gehen
